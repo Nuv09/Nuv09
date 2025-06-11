@@ -1,6 +1,6 @@
-# Nouf Abdullah
+## Nouf Abdullah
 
-## 👩‍💻 Data Science Enthusiast | IT Student
+#### 👩‍💻 Data Science Enthusiast | IT Student
 
 I'm an Information Technology student specializing in Data Science, passionate about transforming data into meaningful insights and building digital solutions that solve real-world problems.
 
