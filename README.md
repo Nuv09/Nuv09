@@ -1,16 +1,19 @@
-## Hi there 👋
+# Nouf Abdullah
 
-<!--
-**Nuv09/Nuv09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Data Science Enthusiast | IT Student
 
-Here are some ideas to get you started:
+I'm an Information Technology student specializing in Data Science, passionate about transforming data into meaningful insights and building digital solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 Key Projects
+- **Real vs. AI Image Classification** – Built deep learning models to distinguish real and synthetic images using CNNs and Python.
+- **Financial Behavior Analysis** – Applied machine learning to analyze spending patterns and suggest personalized saving plans.
+- **Search Engine in Java** – Developed a basic search engine using data structures and client-server networking.
+
+---
+
+### ⚙️ Skills & Tools
+- **Languages:** Java, Python, PHP, HTML, CSS, JavaScript
+- **Libraries & Tech:** Pandas, NumPy, scikit-learn, TensorFlow
+- **Tools:** GitHub, MySQL, Google Colab, Figma
