@@ -26,7 +26,11 @@ I'm an Information Technology student specializing in Data Science, passionate a
 
 ---
 
+
 ### ⚙️ Skills & Tools
-- **Languages:** Java, Python, PHP, HTML, CSS, JavaScript
-- **Libraries & Tech:** Pandas, NumPy, scikit-learn, TensorFlow
-- **Tools:** GitHub, MySQL, Google Colab, Figma
+
+- **Languages:** Python, Java, PHP, HTML, CSS, JavaScript  
+- **Libraries & Frameworks:** scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, Imbalanced-learn  
+- **Databases & Backend:** MySQL  
+- **Tools & Platforms:** GitHub, Google Colab, Figma, VS Code, NetBeans  
+- **Concepts:** Machine Learning, Data Preprocessing, UX/UI Design, Web Development, Data Visualization
