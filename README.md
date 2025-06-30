@@ -7,9 +7,22 @@ I'm an Information Technology student specializing in Data Science, passionate a
 ---
 
 ### 🌟 Key Projects
-- **Real vs. AI Image Classification** – Built deep learning models to distinguish real and synthetic images using CNNs and Python.
-- **Financial Behavior Analysis** – Applied machine learning to analyze spending patterns and suggest personalized saving plans.
-- **Search Engine in Java** – Developed a basic search engine using data structures and client-server networking.
+
+- **Real vs. AI Image Classification**  
+  Built machine learning models to distinguish between real and AI-generated images.  
+  Compared model accuracy to human performance and explored visual features that influence classification.
+
+- **Ru’aa**  
+  A web platform designed to help tech students discover, track, and join events like hackathons and workshops.  
+  Includes features for event browsing, team formation, and organizer dashboards.
+
+- **Students’ Adaptability to Online Learning**  
+  Analyzed survey data using classification (Decision Tree) and clustering (K-Means) techniques  
+  to identify key factors affecting students’ adaptability to remote education.
+
+- **Eventful (UX Project)**  
+  Designed a mobile app prototype for planning and managing events using Figma.  
+  Focused on solving real user needs through research-driven design and interactive prototyping.
 
 ---
 
